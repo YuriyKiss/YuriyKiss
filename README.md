@@ -4,11 +4,11 @@
 
 I'm Yuriy from Ukraine, and I work as freelance Unity game developer. I have 1+ year of experience and usually my job is working with code as programmer, however I've learned many other skills (working with Unity Profiler, optimizing build size, creating UnityEditor tools). Below are the projects I've been working on.
 
-### Games:
+### Game Prototypes in Stores:
 * Hidden Thief [[Android](https://play.google.com/store/apps/details?id=com.wannaplay.hidenthief) / [iOS](https://apps.apple.com/ua/app/hidden-thief/id1591001397)]
-* Macrame DIY [[Android](https://play.google.com/store/apps/details?id=com.vasylevych.macrame) / iOS]
+* Macrame DIY: (Obi Ropes) [[Android](https://play.google.com/store/apps/details?id=com.vasylevych.macrame) / iOS], (Dreamteck Splines) [[YouTube](https://youtube.com/shorts/9g6yPJ8aPjA)]
 
-### Prototypes:
+### Prototype Code Samples:
 * [Kamikaze Simulator](https://github.com/YuriyKiss/Kamikaze-Simulator)
 * [Sort 'Em](https://github.com/YuriyKiss/SortEm)
 
