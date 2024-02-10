@@ -1,5 +1,5 @@
 # Hello there, welcome to my page 👋
-I am Yurii Kis, Unity Engineer who has lately been mostly working on VR/AR appplications. Here you can find different projects I was working on on my spare time, at university, during freelance experience and in the future you would find commercial projects I am most proud of.
+I am Yurii Kis, Unity Engineer who lately has been mostly working on VR/AR applications. Here you can find different projects I was working on on my spare time, at university, during freelance experience and in the future you would find commercial projects I am most proud of.
 
 ### I am proud of:
 * [Anouschka](https://adoato.itch.io/anouschka) a narrative-driven AR game that won [IDFA DocLab award for Digital Storytelling](https://festival.idfa.nl/en/news/idfa-award-for-best-film-naar-1489-en-canutos-transformation/)
