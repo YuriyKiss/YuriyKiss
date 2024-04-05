@@ -4,7 +4,7 @@ I am Yurii Kis, Unity Engineer who lately has been mostly working on VR/AR appli
 ### I am proud of:
 * [Anouschka](https://adoato.itch.io/anouschka) a narrative-driven AR game that won [IDFA DocLab award for Digital Storytelling](https://festival.idfa.nl/en/news/idfa-award-for-best-film-naar-1489-en-canutos-transformation/)
 
-### Game Prototypes in stores:
+### Hyper-Casual Game Prototypes in stores:
 * Hidden Thief [Android / [iOS](https://apps.apple.com/ua/app/hidden-thief/id1591001397)]
 * Macrame DIY: (Obi Ropes) [[Android](https://play.google.com/store/apps/details?id=com.vasylevych.macrame) / iOS], (Dreamteck Splines) [[YouTube](https://youtube.com/shorts/9g6yPJ8aPjA)]
 
