@@ -1,8 +1,9 @@
 # Hello there, welcome to my page 👋
-I am Yurii Kis, Unity Engineer who lately has been mostly working on VR/AR applications. Here you can find different projects I was working on on my spare time, at university, during freelance experience and in the future you would find commercial projects I am most proud of.
+I am Yurii Kis, a Unity Engineer who has been mostly working on VR/AR applications lately. Here you can find different projects I was working on in my spare time, at university, and during freelance experience, and in the future you will find commercial projects I am most proud of.
 
-### I am proud of:
+### Projects I've worked on:
 * [Anouschka](https://adoato.itch.io/anouschka) a narrative-driven AR game that won [IDFA DocLab award for Digital Storytelling](https://festival.idfa.nl/en/news/idfa-award-for-best-film-naar-1489-en-canutos-transformation/)
+* [Phramble](https://play.google.com/store/apps/details?id=com.preferredpuzzles.phramble&hl=en) is a puzzle game for the Android system.
 
 ### Hyper-Casual Game Prototypes in stores:
 * Hidden Thief [Android / [iOS](https://apps.apple.com/ua/app/hidden-thief/id1591001397)]
@@ -19,7 +20,7 @@ I am Yurii Kis, Unity Engineer who lately has been mostly working on VR/AR appli
 ### Miscellaneous:
 * [Cryptography application](https://github.com/YuriyKiss/Cryptography) project from university course I've finished
 * [C++ Excel Column Name Generator](https://github.com/YuriyKiss/ExcelStyleColumnName) as a fun coding challenge
-* [Scheduler](https://github.com/YuriyKiss/LNUScheduler) mostly WIP as an university course I am taking has not come to an end yet. The documentation and wiki is ready, tho
+* [Scheduler](https://github.com/YuriyKiss/LNUScheduler) mostly WIP as a university course I am taking has not ended yet. The documentation and wiki is ready, tho
 
 ### Contacts
 [<img src='https://github.com/YuriyKiss/YuriyKiss/assets/59531932/2e611dce-b09a-4bc4-aa11-58a1381e7263' alt='github' height='40'>](https://github.com/YuriyKiss)  [<img src='https://github.com/YuriyKiss/YuriyKiss/assets/59531932/a330d4a8-5213-4b59-9b10-ee51b0223197' alt='gmail' height='40'>](mailto:yyuriykiss@gmail.com)  [<img src='https://github.com/YuriyKiss/YuriyKiss/assets/59531932/c1288c01-6b78-40db-89b5-9b54fb03f06c' alt='linkedin' height='40'>](https://www.linkedin.com/in/yyuriykiss/)
