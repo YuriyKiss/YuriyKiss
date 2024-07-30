@@ -3,7 +3,7 @@ I am Yurii Kis, a Unity Engineer who has been mostly working on VR/AR applicatio
 
 ### Projects I've worked on:
 * [Anouschka](https://adoato.itch.io/anouschka) a narrative-driven AR game that won [IDFA DocLab award for Digital Storytelling](https://festival.idfa.nl/en/news/idfa-award-for-best-film-naar-1489-en-canutos-transformation/)
-* [Phramble](https://play.google.com/store/apps/details?id=com.preferredpuzzles.phramble&hl=en) is a puzzle game for the Android system.
+* Phramble is a puzzle game for the [Android](https://play.google.com/store/apps/details?id=com.preferredpuzzles.phramble&hl=en) and [iOS](https://apps.apple.com/us/app/phramble/id6443954708) systems.
 
 ### Hyper-Casual Game Prototypes in stores:
 * Hidden Thief [Android / [iOS](https://apps.apple.com/ua/app/hidden-thief/id1591001397)]
