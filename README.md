@@ -7,7 +7,7 @@ I am Yurii Kis, a Unity Engineer who has been mostly working on VR/AR applicatio
 
 ### Hyper-Casual Game Prototypes in stores:
 * Hidden Thief [Android / [iOS](https://apps.apple.com/ua/app/hidden-thief/id1591001397)]
-* Macrame DIY: (Obi Ropes) [[Android](https://play.google.com/store/apps/details?id=com.vasylevych.macrame) / iOS], (Dreamteck Splines) [[YouTube](https://youtube.com/shorts/9g6yPJ8aPjA)]
+* Macrame DIY: (Obi Ropes) [Android / [iOS](https://apps.apple.com/us/app/macrame-diy/id1612957713)], (Dreamteck Splines) [[YouTube](https://youtube.com/shorts/9g6yPJ8aPjA)]
 
 ### First Unity Experience Applications:
 * [Daily Reward system](https://github.com/YuriyKiss/Daily-Reward)
